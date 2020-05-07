@@ -1,2 +1,5 @@
 # calm_light.vim
-Light color scheme that doesn't burn your eyes either by  being overly white or lacking contract.
+This is a moderately light color scheme that tries to not burn your eyes
+by either being too light or lacking too much contrast.
+
+Suggestions and PRs are welcomed.
